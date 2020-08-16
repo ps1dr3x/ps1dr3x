@@ -1,6 +1,6 @@
 # 👾 Hello World 👾
 
-<img src="resources/alien.gif" width="165" height="240">
+<img src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/alien.gif" width="165" height="240">
 
 I'm Michele Federici, an hardcore tech-nerd who loves computer aesthetic, coding, (breaking) security and living the sweeet life 🍷
 
@@ -14,18 +14,22 @@ Besides the nerd stuff, I'm passionate about wine, nature, music and every other
 
 ## Ask me about
 
-👨🏼‍💻  Software Development  🔒  Cyber Security  ⛓  Bitcoin and Blockchain Tech
+👨🏼‍💻  Software Development
+
+🔒  Cyber Security
+
+⛓  Bitcoin and Blockchain Tech
 
 ## Connect with me (don't spam bs or my alien friend will kidnap you)
 
 <a href="https://telegram.me/ps1dr3x" target="_blank">
-    <img alt="ps1dr3x - Telegram" width="30px" src="resources/telegram.svg" />&nbsp; &nbsp;
+    <img alt="ps1dr3x - Telegram" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/telegram.gif" />&nbsp; &nbsp;
 </a>
 <a href="https://www.linkedin.com/in/michelefederici/" target="_blank">
-    <img alt="Michele Federici - LinkedIn" width="30px" src="resources/linkedin.svg" />&nbsp; &nbsp;
+    <img alt="Michele Federici - LinkedIn" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/linkedin.gif" />&nbsp; &nbsp;
 </a>
 <a href="https://github.com/ps1dr3x" target="_blank">
-    <img alt="Michele Federici - GitHub" width="30px" src="resources/github.svg" />&nbsp; &nbsp;
+    <img alt="Michele Federici - GitHub" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/github.gif" />&nbsp; &nbsp;
 </a>
 
 ## Random swag
