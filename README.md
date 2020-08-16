@@ -8,7 +8,7 @@ I'm Michele Federici, an hardcore tech-nerd who loves computer aesthetic, coding
 
 I ♥ open systems, rust, linux, bitcoin, and hacking around with all kinds of technologies.
 
-I'm currently working as Head Blockchain Engineering at [SEBA Bank](https://seba.swiss/ "SEBA Bank")
+I'm currently working as Head Blockchain Engineering at [SEBA Bank](https://seba.swiss/ "SEBA Bank").
 
 Besides the nerd stuff, I'm passionate about wine, nature, music and every other pleasure this planet can offer.
 
