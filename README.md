@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/alien.gif" width="165" height="240">
 
-I'm Michele Federici, an hardcore tech-nerd who loves computer aesthetic, coding, (breaking) security and living the sweeet life 🍷
+I'm Michele Federici, an hardcore tech-nerd who loves coding, (breaking) security, computer aesthetic and living the sweeet life 🍷
 
 ## About me
 
-I ♥ open systems, linux, rust, bitcoin, and hacking around with all sorts of technologies.
+I ♥ open systems, linux, rust, bitcoin, and hacking around with all kind of technologies.
 
 I'm currently working as Head Blockchain Engineering at [SEBA Bank](https://seba.swiss/ "SEBA Bank").
 
@@ -20,7 +20,7 @@ Besides the nerd stuff, I'm passionate about wine, nature, music and every other
 
 ⛓  Bitcoin and Blockchain Tech
 
-## Connect with me (don't spam bs or my alien friend will kidnap you)
+## Connect with me (no spam, no bs 🗡️)
 
 <a href="https://telegram.me/ps1dr3x" target="_blank">
     <img alt="ps1dr3x - Telegram" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/telegram.svg" />&nbsp; &nbsp;
