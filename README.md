@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/alien.gif" width="165" height="240">
 
-I'm Michele Federici, an hardcore tech-nerd who loves coding, (breaking) security, computer aesthetic and living the sweeet life 🍷
+I'm Michele Federici, an hardcore tech-nerd who loves coding, (breaking) security, computer aesthetic and living the sweet life 🍷
 
 ## About me
 
