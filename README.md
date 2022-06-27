@@ -4,13 +4,11 @@
 
 ## About me
 
-You can usually find me keeping some computers busy 🏴‍☠️
+I build and break software, keeping some computers busy in the process 🏴‍☠️
 
-I love writing code, I'm a supporter of open source, open systems and decentralization, and I'm a fan of linux, rust and bitcoin.
+I'm a big fan of open source and decentralization. I love Linux, Rust and ₿itcoin. 
 
-Currently I'm Head of Blockchain Engineering at [SEBA Bank](https://seba.swiss/ "SEBA Bank"), one of the world's first regulated banks accepting and offering services for digital assets.
-
-Besides the nerd stuff, I try to enjoy the sweet life too. I'm passionate about wine, nature, music and every other joy this planet has to offer 🍷
+Besides the nerdy stuff, I mostly try to enjoy la dolce vita 🍷
 
 ## Ask me about
 
