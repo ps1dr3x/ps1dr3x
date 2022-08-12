@@ -4,11 +4,11 @@
 
 ## About me
 
-I build and break software, keeping some computers busy in the process 🏴‍☠️
+I spend most of my time building and breaking software.
 
-I'm a big fan of open source and decentralization. I love Linux, Rust and ₿itcoin. 
+I'm a big fan of open source and decentralization. I love Linux, Rust, ₿itcoin and blockchain technology in general. 
 
-Besides the nerdy stuff, I mostly try to enjoy la dolce vita 🍷
+Besides the nerdy stuff, I also like to enjoy la dolce vita 🍷
 
 ## Ask me about
 
@@ -17,6 +17,8 @@ Besides the nerdy stuff, I mostly try to enjoy la dolce vita 🍷
 🔒  Cyber Security
 
 ⛓  Bitcoin and Blockchain Tech
+
+🍷 Wine (Italian in particular)
 
 ## Connect with me (no spam, no bs 🗡️)
 
