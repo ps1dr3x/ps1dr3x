@@ -8,7 +8,7 @@ I spend most of my time building and breaking software.
 
 I'm a big fan of open source and decentralization. I love Linux, Rust, ₿itcoin and blockchain technology in general. 
 
-Besides the nerdy stuff, I also like to enjoy la dolce vita 🍷
+Besides the nerdy stuff, I also enjoy la dolce vita 🍷
 
 ## Ask me about
 
