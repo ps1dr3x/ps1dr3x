@@ -1,7 +1,5 @@
 ## 👾 Hello World 👾
 
-<img src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/alien.gif" width="100" height="145">
-
 ### About me
 
 I spend most of my time building and breaking software.
@@ -33,5 +31,3 @@ Besides the nerdy stuff, I also enjoy la dolce vita 🍷
 
 <img src="https://github-readme-stats.vercel.app/api?username=ps1dr3x&show_icons=true&count_private=true&theme=radical" alt="ps1dr3x - GitHub Stats">&nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps1dr3x&layout=compact&show_icons=true&count_private=true&theme=radical" alt="ps1dr3x - GitHub Stats">
-
-###### Alien gif CC [@instaphazed](https://linktr.ee/instaphazed)
