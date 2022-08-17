@@ -20,6 +20,9 @@ Besides the nerdy stuff, I also enjoy la dolce vita 🍷
 
 ### Connect with me (no spam, no bs 🗡️)
 
+<a href="https://michelefederici.com" target="_blank">
+    <img alt="Michele Federici - Website" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/website.png" />&nbsp; &nbsp;
+</a>
 <a href="https://www.linkedin.com/in/michelefederici/" target="_blank">
     <img alt="Michele Federici - LinkedIn" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/linkedin.svg" />&nbsp; &nbsp;
 </a>
