@@ -1,24 +1,16 @@
 ## 👾 Hello World 👾
 
-### About me
+I like computer magic and magic internet money
 
-I spend most of my time building and breaking software.
+### What am I doing with my life?
 
-I'm a big fan of freedom, open source and decentralization. I love Linux, Rust, ₿itcoin and blockchain tech in general. 
+👨🏼‍💻  Software Engineering
 
-Besides the nerdy stuff, I also enjoy la dolce vita 🍷
+🏴‍☠️  IT Security
 
-### Ask me about
+⛓  Bitcoin, Blockchain Technology
 
-👨🏼‍💻  Software Development
-
-🔒  Cyber Security
-
-⛓  Bitcoin and Blockchain Tech
-
-🍷  Wine (Italian in particular)
-
-### Connect with me (no spam, no bs 🗡️)
+### Spam
 
 <a href="https://michelefederici.com" target="_blank">
     <img alt="Michele Federici - Website" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/website.png" />&nbsp; &nbsp;
