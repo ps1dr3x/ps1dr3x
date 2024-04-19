@@ -18,9 +18,6 @@ I'm Michele, a computer magic and magic internet money addict
 <a href="https://twitter.com/ps1dr3x" target="_blank">
     <img alt="Michele Federici - Twitter" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/twitter.png" />&nbsp; &nbsp;
 </a>
-<a href="https://github.com/ps1dr3x" target="_blank">
-    <img alt="Michele Federici - GitHub" width="30px" src="https://raw.githubusercontent.com/ps1dr3x/ps1dr3x/master/resources/github.svg" />&nbsp; &nbsp;
-</a>
 
 ### Random swag
 
