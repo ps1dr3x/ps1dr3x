@@ -1,14 +1,11 @@
 ## 👾 Hello World 👾
 
-I like computer magic and magic internet money
+I'm Michele, a computer magic and magic internet money addict
 
-### What am I doing with my life?
+### What can I do for you?
 
-👨🏼‍💻  Software Engineering
-
-🏴‍☠️  IT Security
-
-⛓  Bitcoin, Blockchain Technology
+IT Security, Software Engineering and Blockchain Technology consulting -> [sig9.ch](https://sig9.ch)
+Decentralized Escrows -> [unicrow.io](https://unicrow.io)
 
 ### Spam
 
