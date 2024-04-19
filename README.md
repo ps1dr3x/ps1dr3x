@@ -2,10 +2,10 @@
 
 I'm Michele, a computer magic and magic internet money addict
 
-### What can I do for you?
+### What am I doing? What can I do for you?
 
-IT Security, Software Engineering and Blockchain Technology consulting -> [sig9.ch](https://sig9.ch)
-Decentralized Escrows -> [unicrow.io](https://unicrow.io)
+[sig9.ch](https://sig9.ch) -> IT Security, Software Engineering and Blockchain Technology consulting
+[unicrow.io](https://unicrow.io) -> Decentralized Escrows
 
 ### Spam
 
