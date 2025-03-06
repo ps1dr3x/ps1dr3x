@@ -1,6 +1,6 @@
 ## 👾 Hello World 👾
 
-I'm Michele, and I like keeping my computers up and my internet money magic.
+I'm Michele. I like my servers 99.9 up and my internet money magic.
 
 ### What do I do? What can I do for you?
 
